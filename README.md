@@ -1,0 +1,2 @@
+# QuoteGenerator
+For internal use
